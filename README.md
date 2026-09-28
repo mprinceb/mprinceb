@@ -17,13 +17,17 @@ I build backend services, integrations, and the interfaces on top. I have 3+ yea
 | [Quest 3 → Foxglove MCAP](https://github.com/mprinceb/quest3-foxglove-mcap) | Python converter that turns Quest 3 capture exports into Foxglove-compatible MCAP files. |
 | [Portfolio](https://github.com/mprinceb/folio) | Next.js site with project case studies, implementation context, and links to public code. |
 
-## Production experience
+## Professional and private project work
 
-At **Technoculture Research**, my work spans backend services, desktop applications, and ERP automation:
+At **Technoculture Research**, my work spans backend services, mobile and desktop applications, AI collaboration, and ERP migration:
 
 - **[SXD](https://mprinceb.vercel.app/work/sxd)** — recoverable CPU/GPU data-processing workflows, Python/FastAPI services, PostgreSQL, and artifact delivery to object storage.
 - **[FirstCheck](https://mprinceb.vercel.app/work/firstcheck)** — an Electron clinical desktop application with encrypted SQLite, a TypeScript risk engine, role-based access, and laboratory-device integrations.
-- **vv-ERP** — Frappe/ERPNext workflows for CRM, payroll, and payments, including Keka migration and deployments with Kubernetes and ArgoCD.
+- **[Vastu Vihar ERP](https://mprinceb.vercel.app/work/vv-erp)** — owned the complete ERP migration, including 300,000+ payment entries and payroll/HRMS migration from Keka; continued engineering across CRM, sales, accounting, stock, construction, HR, and payroll.
+- **[Ella](https://mprinceb.vercel.app/work/ella)** — contributed React Native authentication, persistent state, messaging and voice flows, plus backend integrations, WebSocket scaling, observability, and PostgreSQL/Redis backup and restore infrastructure.
+- **[Echoes](https://mprinceb.vercel.app/work/echoes)** — contributed live collaboration, organization-level retrieval, file handling, search, and voice features for an AI collaboration platform.
+- **[VV Field App](https://mprinceb.vercel.app/work/vv-field-app)** — contributed ERP authentication and integration, township aggregation, Android notifications, version checks, and production diagnostics across React, Capacitor, and Cloudflare services.
+- **[HMS](https://mprinceb.vercel.app/work/hms)** — built across a hospital platform’s Next.js frontend, TypeScript services, shared API contracts, authentication, and clinical/administrative workflows.
 
 These are experience summaries; the links above lead to case studies. The public repositories listed separately are available for code review.
 
